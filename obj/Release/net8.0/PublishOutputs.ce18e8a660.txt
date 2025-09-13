@@ -1,0 +1,7 @@
+D:\Training\OpenSession\Az204\13-09-2025\Workspace\webapp1309\obj\Release\net8.0\PubTmp\Out\webapp1309.exe
+D:\Training\OpenSession\Az204\13-09-2025\Workspace\webapp1309\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+D:\Training\OpenSession\Az204\13-09-2025\Workspace\webapp1309\obj\Release\net8.0\PubTmp\Out\appsettings.json
+D:\Training\OpenSession\Az204\13-09-2025\Workspace\webapp1309\obj\Release\net8.0\PubTmp\Out\webapp1309.dll
+D:\Training\OpenSession\Az204\13-09-2025\Workspace\webapp1309\obj\Release\net8.0\PubTmp\Out\webapp1309.deps.json
+D:\Training\OpenSession\Az204\13-09-2025\Workspace\webapp1309\obj\Release\net8.0\PubTmp\Out\webapp1309.runtimeconfig.json
+D:\Training\OpenSession\Az204\13-09-2025\Workspace\webapp1309\obj\Release\net8.0\PubTmp\Out\webapp1309.pdb
