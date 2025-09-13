@@ -1,0 +1,17 @@
+name: MyPipeline
+
+on:
+  push:
+    branches:
+      - main  # run when code is pushed to main branch
+
+jobs:
+  hello:
+    runs-on: windows-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Say Hello
+        run: echo "Hello, World! 👋 from GitHub Actions"
